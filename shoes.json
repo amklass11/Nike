@@ -1,0 +1,65 @@
+{
+    "shoes": [
+      {
+        "id": 1,
+        "model": "Nike Air Max 270",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbiEMl2M46kxqKIHOdgjk2_nlZI3d5q1fgLQ&usqp=CAU"
+      },
+      {
+        "id": 2,
+        "model": "Nike React Element 55",
+        "price": 89.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5pWafZ0JwWBLGBprZTcHjc8ROd2pLfqocIA&usqp=CAU"
+      },
+      {
+        "id": 3,
+        "model": "Nike Zoom Pegasus Turbo 2",
+        "price": 149.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiHP_ADz__Rr8F_qxYidIdiu7nOhcLhxwB5w&usqp=CAU"
+      },
+      {
+        "id": 4,
+        "model": "Nike Lassen Racer",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2c0s88R3G6nKhAZZAiQaAqquAH05zAAbKaQ&usqp=CAU"
+      },
+      {
+        "id": 5,
+        "model": "Nike mandem",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2c0s88R3G6nKhAZZAiQaAqquAH05zAAbKaQ&usqp=CAU"
+      },
+      {
+        "id": 6,
+        "model": "Nike Buhariyya",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2c0s88R3G6nKhAZZAiQaAqquAH05zAAbKaQ&usqp=CAU"
+      },
+      {
+        "id": 7,
+        "model": "Nike yeezy",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2c0s88R3G6nKhAZZAiQaAqquAH05zAAbKaQ&usqp=CAU"
+      },
+      {
+        "id": 8,
+        "model": "Nike amal",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2c0s88R3G6nKhAZZAiQaAqquAH05zAAbKaQ&usqp=CAU"
+      },
+      {
+        "id": 9,
+        "model": "Salman Nike",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2c0s88R3G6nKhAZZAiQaAqquAH05zAAbKaQ&usqp=CAU"
+      },
+      {
+        "id": 10,
+        "model": "Nike Kishimoto",
+        "price": 129.99,
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2c0s88R3G6nKhAZZAiQaAqquAH05zAAbKaQ&usqp=CAU"
+      }
+    ]
+  }
+  
